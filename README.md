@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bigbluedragon
+- 👋 Hi, I’m Talen
 - 👀 I’m interested in Computers, coding, games and gym
 - 🌱 I’m currently learning how to become a software engineer
 - 💞️ I’m looking to collaborate on future coding projects that I have interest in
